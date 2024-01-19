@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/frannpereira97/count.svg)
+
 <!--
 **frannpereira97/frannpereira97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
